@@ -40,6 +40,16 @@ This project analyzes COVID-19 data to understand infection trends, death rates,
 * CTEs
 * Data Analysis
 
+## 📊 Dataset Source
+
+The dataset used in this project is publicly available from:
+
+* Our World in Data COVID-19 Dataset
+  https://covid.ourworldindata.org/data/owid-covid-data.csv
+
+Note: The dataset is large, so it is not included in this repository. Please download it from the link above.
+
+
 ## 👤 Author
 
 Kandregula Bhavya
